@@ -3,6 +3,7 @@
 
 ![](https://github.com/smartmiaomiao/Hero-of-the-empire/blob/master/wechatQR.png)
 </br>官方网站的二维码：http://hero-empire.com/index/wechat_qr/0-62
+为何是我的微信二维码，请看完这个文档
 
 </br></br></br>
 赞助列表：
